@@ -1,16 +1,32 @@
-## Hi there 👋
+### 👋 Olá! Bem-vindo(a) ao meu perfil!
 
-<!--
-**o-joaovictor/o-joaovictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou João Victor de Almeida Sant'Anna, um estudante e estágiario com foco em Análise de Dados e Desenvolvimento Web.
+Estou sempre aprendendo e explorando novas tecnologias.
 
-Here are some ideas to get you started:
+* 🔭 Atualmente estou estágiando na estatal Suape
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 📱 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joãoalmeida26/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/o-joaovictor)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/o_joaov1ctor/)
+
+---
+
+### 🛠️ Habilidades e Ferramentas
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📊 Minhas Estatísticas do GitHub
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=o-joaovictor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhas Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=o-joaovictor&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
