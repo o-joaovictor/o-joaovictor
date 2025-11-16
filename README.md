@@ -1,6 +1,6 @@
 ### 👋 Olá! Bem-vindo(a) ao meu perfil!
 
-Eu sou João Victor de Almeida Sant'Anna, um estudante e estágiario com foco em Análise de Dados e Desenvolvimento Web.
+Eu sou João Victor de Almeida Sant'Anna, um estudante e estágiario com foco em Dados, IA e Desenvolvimento Web.
 Estou sempre aprendendo e explorando novas tecnologias.
 
 * 🔭 Atualmente estou estágiando na estatal Suape
