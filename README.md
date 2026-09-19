@@ -3,7 +3,7 @@
 Eu sou João Victor de Almeida Sant'Anna, um estudante e trabalho com foco em Dados, IA e Desenvolvimento Web.
 Estou sempre aprendendo e explorando novas tecnologias.
 
-* 🔭 Atualmente estou estágiando na estatal Suape
+* 🔭 Atualmente estou trabalho na estatal Suape
 
 
 ---
